@@ -3,8 +3,7 @@
 A simple RESTful API built with **Node.js**, **Express**, and **MongoDB** to manage blog posts. This project supports full CRUD operations.
 
 ## 📺 Demo Video
-
-[![Watch the video](https://drive.google.com/file/d/1jzSqUbIEKS8oetHCaIPpWm-f7VtOwULv/view?usp=sharing)
+(https://drive.google.com/file/d/1jzSqUbIEKS8oetHCaIPpWm-f7VtOwULv/view?usp=sharing)
 
 ## 🚀 Features
 
